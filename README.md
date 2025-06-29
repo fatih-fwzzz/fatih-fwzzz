@@ -8,7 +8,6 @@ I'm a final-year Computer Science student at **BINUS University, Indonesia**, wi
 - 🌱 I’m currently learning everything about SwiftUI and other Apple frameworks.
 - 👯 I’m looking to collaborate on open-source projects related to mobile or web development.
 - 💬 Ask me about my tech stack or my journey in tech!
-- 📫 How to reach me: [m.fatihdaffa@gmail.com](mailto:m.fatihdaffa@gmail.com)
 
 ---
 
